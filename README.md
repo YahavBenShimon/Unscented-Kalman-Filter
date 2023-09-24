@@ -17,3 +17,6 @@ offering a more accurate and reliable solution for tracking applications with in
 - Effective management of sensor noise and process uncertainties.
 - Capability for real-time processing.
 - In-depth documentation and illustrative examples.
+
+## Contributors
+- [Yahav Ben Shimon](https://github.com/YahavBenShimon)
